@@ -15,4 +15,4 @@ MonoBehaviour:
   initialSpeed: 10
   maxSpeed: 15
   speedIncreaseRate: 0.1
-  startingDirection: {x: 0, y: 1}
+  startingDirection: {x: 0, y: -1}
