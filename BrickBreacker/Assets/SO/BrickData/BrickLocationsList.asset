@@ -67,3 +67,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5bd092203e8f86b41b368424755e28ab, type: 2}
   - {fileID: 11400000, guid: b457b86f49839a347883f253564d6bef, type: 2}
   - {fileID: 11400000, guid: 6564c690ff880f14da89b12fe2ee2a8a, type: 2}
+  positionList:
+  - {fileID: 0}
