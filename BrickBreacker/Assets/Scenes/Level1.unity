@@ -8089,7 +8089,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &868770113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8147,9 +8147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa23b1bad0ab7e449dc4d41d94646e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controls: {fileID: 11400000, guid: ed98fb6281f1f405bbbf68672074bff6, type: 2}
-  minimumDistance: 0.2
-  maximumTime: 1
+  player: {fileID: 1714112208}
 --- !u!1001 &876560121
 PrefabInstance:
   m_ObjectHideFlags: 0
