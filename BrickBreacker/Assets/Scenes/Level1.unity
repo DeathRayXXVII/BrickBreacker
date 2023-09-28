@@ -200,11 +200,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &6003992
@@ -570,10 +570,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &62746309
@@ -1113,10 +1113,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &90531229
@@ -1301,90 +1301,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91082176}
   m_CullTransparentMesh: 1
---- !u!1 &107290484
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 107290486}
-  - component: {fileID: 107290485}
-  m_Layer: 0
-  m_Name: Background
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &107290485
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 107290484}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.16981131, g: 0.068084724, b: 0.16613016, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &107290486
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 107290484}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.9266497, y: 0.1, z: 5.6843805}
-  m_LocalScale: {x: 93.749405, y: 44.420464, z: 25.607}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &108379549 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -1462,11 +1378,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &108379553
@@ -1594,7 +1510,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &114750257
@@ -2330,8 +2246,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &251341886
@@ -2629,10 +2545,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &266348334
@@ -3497,10 +3413,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &386472293
@@ -3932,7 +3848,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &401907561
@@ -4313,8 +4229,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &453316454
@@ -4442,8 +4358,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &460641355
@@ -4571,9 +4487,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &469520180
@@ -4701,11 +4617,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &524983690
@@ -5025,9 +4941,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &603015575
@@ -5289,11 +5205,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &621589109
@@ -5499,7 +5415,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &633991473
@@ -5627,8 +5543,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &645993116
@@ -5850,8 +5766,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &719994035
@@ -5979,9 +5895,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &721145487
@@ -6194,9 +6110,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &735635918
@@ -6324,11 +6240,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &753998921
@@ -6619,9 +6535,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &778201974
@@ -6749,10 +6665,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &787463183
@@ -7936,7 +7852,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &858559983
@@ -8089,7 +8005,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &868770113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8147,9 +8063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa23b1bad0ab7e449dc4d41d94646e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controls: {fileID: 11400000, guid: ed98fb6281f1f405bbbf68672074bff6, type: 2}
-  minimumDistance: 0.2
-  maximumTime: 1
+  player: {fileID: 1714112208}
 --- !u!1001 &876560121
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8615,7 +8529,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &940974005
@@ -8737,8 +8651,8 @@ Camera:
   m_GameObject: {fileID: 963194225}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.16862746, g: 0.06666667, b: 0.16470589, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -8788,7 +8702,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -15.22}
+  m_LocalPosition: {x: 0, y: 1, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10139,8 +10053,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1106392329
@@ -10591,8 +10505,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1172242949
@@ -10929,9 +10843,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1206774767
@@ -11417,9 +11331,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1276811378
@@ -11547,8 +11461,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1277320193
@@ -11761,10 +11675,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1334538005
@@ -11892,7 +11806,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1416398245
@@ -12020,9 +11934,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1427894849
@@ -12150,11 +12064,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1442633550
@@ -12856,11 +12770,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ReferenceResolution: {x: 1440, y: 1440}
+  m_ScreenMatchMode: 1
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -12878,7 +12792,7 @@ Canvas:
   serializedVersion: 3
   m_RenderMode: 1
   m_Camera: {fileID: 963194227}
-  m_PlaneDistance: 8.5
+  m_PlaneDistance: 12.4
   m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -13209,7 +13123,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1537958502
@@ -13675,7 +13589,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1598444944
@@ -14529,11 +14443,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1853185620
@@ -14862,10 +14776,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1911663871
@@ -15186,8 +15100,8 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1937447673
@@ -15534,10 +15448,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1956676614
@@ -15920,7 +15834,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1988470751
@@ -16048,11 +15962,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &1989484159
@@ -16825,9 +16739,9 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &2070669402
@@ -17030,10 +16944,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &2081783954
@@ -17465,11 +17379,11 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 2100000, guid: 2e7772059892f0a44b3b1b962e80da7b, type: 2}
-  - {fileID: 2100000, guid: 3069e78784cf5e14e834c634c22cd590, type: 2}
-  - {fileID: 2100000, guid: ada2e071c0c3f714f825b6cdbc3c92df, type: 2}
-  - {fileID: 2100000, guid: 5bc9c0018a58efb48b17532c13639410, type: 2}
-  - {fileID: 2100000, guid: 531f946219c529f42a85088b32107864, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   maxBounceAngle: 75
   spawnWeight: 1
 --- !u!54 &2144830392
@@ -17532,7 +17446,6 @@ SceneRoots:
   - {fileID: 201552080}
   - {fileID: 1533783375}
   - {fileID: 794237889}
-  - {fileID: 107290486}
   - {fileID: 1241285707}
   - {fileID: 991757040}
   - {fileID: 868770114}
