@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4279278, g: 0.46248633, b: 0.49537402, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -200,12 +200,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &6003992
 Rigidbody:
@@ -353,8 +353,8 @@ Transform:
   m_GameObject: {fileID: 24569389}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 16.5, y: 0.19955635, z: -4.7648125}
-  m_LocalScale: {x: 18.602213, y: 1, z: 1}
+  m_LocalPosition: {x: 16.5, y: 0.19955635, z: -6.96}
+  m_LocalScale: {x: 18.602213, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -570,11 +570,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &62746309
 Rigidbody:
@@ -961,7 +961,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -969,7 +969,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1113,11 +1113,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &90531229
 Rigidbody:
@@ -1378,12 +1378,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &108379553
 Rigidbody:
@@ -1510,8 +1510,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &114750257
 Rigidbody:
@@ -1878,8 +1878,8 @@ Transform:
   m_GameObject: {fileID: 167150920}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.6267738, y: 9, z: -4.7648125}
-  m_LocalScale: {x: 38.451828, y: 1, z: 1}
+  m_LocalPosition: {x: -2.6267738, y: 9, z: -6.96}
+  m_LocalScale: {x: 38.451828, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -1988,41 +1988,41 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 645993113}
-  - {fileID: 778201971}
-  - {fileID: 90531226}
-  - {fileID: 753998918}
-  - {fileID: 1937447670}
-  - {fileID: 603015572}
-  - {fileID: 1334538002}
-  - {fileID: 524983687}
-  - {fileID: 1106392326}
-  - {fileID: 735635915}
-  - {fileID: 2081783951}
-  - {fileID: 1989484156}
-  - {fileID: 251341883}
-  - {fileID: 1427894846}
-  - {fileID: 787463180}
-  - {fileID: 108379550}
-  - {fileID: 719994032}
-  - {fileID: 1206774764}
-  - {fileID: 1956676611}
-  - {fileID: 6003989}
-  - {fileID: 453316451}
-  - {fileID: 721145484}
-  - {fileID: 386472290}
-  - {fileID: 1853185617}
-  - {fileID: 1172242946}
-  - {fileID: 469520177}
-  - {fileID: 62746306}
-  - {fileID: 2144830389}
-  - {fileID: 1277320190}
-  - {fileID: 1276811375}
-  - {fileID: 1911663868}
-  - {fileID: 1442633547}
-  - {fileID: 460641352}
-  - {fileID: 2070669399}
   - {fileID: 266348331}
+  - {fileID: 1911663868}
+  - {fileID: 62746306}
+  - {fileID: 386472290}
+  - {fileID: 1956676611}
+  - {fileID: 787463180}
+  - {fileID: 2081783951}
+  - {fileID: 1334538002}
+  - {fileID: 90531226}
+  - {fileID: 2070669399}
+  - {fileID: 1276811375}
+  - {fileID: 469520177}
+  - {fileID: 721145484}
+  - {fileID: 1206774764}
+  - {fileID: 1427894846}
+  - {fileID: 735635915}
+  - {fileID: 603015572}
+  - {fileID: 778201971}
+  - {fileID: 460641352}
+  - {fileID: 1277320190}
+  - {fileID: 1172242946}
+  - {fileID: 453316451}
+  - {fileID: 719994032}
+  - {fileID: 251341883}
+  - {fileID: 1106392326}
+  - {fileID: 1937447670}
+  - {fileID: 645993113}
+  - {fileID: 753998918}
+  - {fileID: 524983687}
+  - {fileID: 1989484156}
+  - {fileID: 108379550}
+  - {fileID: 6003989}
+  - {fileID: 1853185617}
+  - {fileID: 2144830389}
+  - {fileID: 1442633547}
   - {fileID: 621589106}
   - {fileID: 401907558}
   - {fileID: 940974002}
@@ -2246,9 +2246,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &251341886
 Rigidbody:
@@ -2545,11 +2545,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &266348334
 Rigidbody:
@@ -3413,11 +3413,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &386472293
 Rigidbody:
@@ -3848,8 +3848,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &401907561
 Rigidbody:
@@ -4044,7 +4044,8 @@ MeshRenderer:
   m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
-  m_Materials: []
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4083,8 +4084,8 @@ Transform:
   m_GameObject: {fileID: 417586391}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.6267738, y: -9, z: -4.7648125}
-  m_LocalScale: {x: 38.451828, y: 1, z: 1}
+  m_LocalPosition: {x: -2.6267738, y: -9, z: -6.96}
+  m_LocalScale: {x: 106.965294, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -4116,7 +4117,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1714112209}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Paddle, Assembly-CSharp
         m_MethodName: ResetPaddle
         m_Mode: 1
@@ -4229,9 +4230,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &453316454
 Rigidbody:
@@ -4358,9 +4359,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &460641355
 Rigidbody:
@@ -4487,10 +4488,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &469520180
 Rigidbody:
@@ -4617,12 +4618,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &524983690
 Rigidbody:
@@ -4941,10 +4942,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &603015575
 Rigidbody:
@@ -5205,12 +5206,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &621589109
 Rigidbody:
@@ -5415,8 +5416,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &633991473
 Rigidbody:
@@ -5543,9 +5544,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &645993116
 Rigidbody:
@@ -5634,7 +5635,7 @@ Light:
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
+    m_Bias: 0
     m_NormalBias: 0.4
     m_NearPlane: 0.2
     m_CullingMatrixOverride:
@@ -5663,7 +5664,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -5682,13 +5683,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: 0.06731402, y: 0.055698868, z: -0.057936076, w: 0.9944898}
+  m_LocalPosition: {x: 0, y: -3.22, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 8.068, y: 5.97, z: -6.247}
 --- !u!1 &719994031 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -5766,9 +5767,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &719994035
 Rigidbody:
@@ -5895,10 +5896,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &721145487
 Rigidbody:
@@ -6110,10 +6111,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &735635918
 Rigidbody:
@@ -6240,12 +6241,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &753998921
 Rigidbody:
@@ -6535,10 +6536,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &778201974
 Rigidbody:
@@ -6665,11 +6666,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &787463183
 Rigidbody:
@@ -7127,6 +7128,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 07078a22ef0323940b4add239957fa27, type: 2}
     - target: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
       propertyPath: m_Name
       value: Paddle
@@ -7140,10 +7145,13 @@ PrefabInstance:
       addedObject: {fileID: 1714112211}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1714112210}
+      addedObject: {fileID: 1714112216}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1714112209}
+      addedObject: {fileID: 1714112215}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1714112217}
   m_SourcePrefab: {fileID: 100100000, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
 --- !u!1 &812946552
 GameObject:
@@ -7700,7 +7708,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -7708,11 +7716,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.93
+      value: 0.93000007
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7852,8 +7860,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &858559983
 Rigidbody:
@@ -7913,7 +7921,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -7921,11 +7929,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.9300003
+      value: 7.930001
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8005,7 +8013,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &868770113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8159,7 +8167,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -8167,7 +8175,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8377,7 +8385,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -8385,7 +8393,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8529,8 +8537,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &940974005
 Rigidbody:
@@ -8652,7 +8660,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.16862746, g: 0.06666667, b: 0.16470589, a: 1}
+  m_BackGroundColor: {r: 0.13550195, g: 0.15161824, b: 0.1981132, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -8702,7 +8710,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -15.22}
+  m_LocalPosition: {x: 0, y: 1, z: -17.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9159,12 +9167,12 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 991757038}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 28b67f604d4889540a1ce5bd53cb1b1c, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.3
+  m_Volume: 0.136
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -9561,7 +9569,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1714112209}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Paddle, Assembly-CSharp
         m_MethodName: ResetPaddle
         m_Mode: 1
@@ -9709,8 +9717,8 @@ Transform:
   m_GameObject: {fileID: 1075091007}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -21.5, y: 0.19955635, z: -4.7648125}
-  m_LocalScale: {x: 18.602213, y: 1, z: 1}
+  m_LocalPosition: {x: -21.5, y: 0.19955635, z: -6.96}
+  m_LocalScale: {x: 18.602213, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -9731,7 +9739,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1082276111
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9971,10 +9979,34 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 991757042}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: set_volume
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 991757041}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: set_volume
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &1094101281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10137,9 +10169,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1106392329
 Rigidbody:
@@ -10284,15 +10316,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
       propertyPath: m_LocalScale.x
-      value: 36.055
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
       propertyPath: m_LocalScale.y
-      value: 36.055
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
       propertyPath: m_LocalScale.z
-      value: 36.055
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10334,6 +10366,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 48198b9983c0921478074f5076943dbe, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 94565ccab8c399b4181f84230d339c2c, type: 2}
     - target: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
       propertyPath: m_Name
       value: Ball
@@ -10362,7 +10398,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -10370,7 +10406,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10589,9 +10625,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1172242949
 Rigidbody:
@@ -10927,10 +10963,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1206774767
 Rigidbody:
@@ -11338,6 +11374,140 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1257996788}
   m_CullTransparentMesh: 1
+--- !u!1 &1270540763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1270540764}
+  - component: {fileID: 1270540766}
+  - component: {fileID: 1270540765}
+  m_Layer: 5
+  m_Name: Version
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1270540764
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1270540763}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1454180731}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -299}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1270540765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1270540763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Version 0.0.2
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 77.54
+  m_fontSizeBase: 77.54
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 0
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1270540766
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1270540763}
+  m_CullTransparentMesh: 1
 --- !u!1 &1276811374 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -11415,10 +11585,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1276811378
 Rigidbody:
@@ -11545,9 +11715,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1277320193
 Rigidbody:
@@ -11759,11 +11929,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1334538005
 Rigidbody:
@@ -11890,8 +12060,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1416398245
 Rigidbody:
@@ -12018,10 +12188,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1427894849
 Rigidbody:
@@ -12148,12 +12318,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1442633550
 Rigidbody:
@@ -12236,6 +12406,7 @@ RectTransform:
   - {fileID: 799188336}
   - {fileID: 812946553}
   - {fileID: 326120491}
+  - {fileID: 1270540764}
   m_Father: {fileID: 1533783375}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -12291,7 +12462,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -12299,7 +12470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13029,7 +13200,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -13207,8 +13378,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1537958502
 Rigidbody:
@@ -13673,8 +13844,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1598444944
 Rigidbody:
@@ -14033,7 +14204,29 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
   m_PrefabInstance: {fileID: 804694384}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1714112209
+--- !u!64 &1714112211
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714112208}
+  m_Material: {fileID: 13400000, guid: 3506b809626c4cc429d6e0c790f6d927, type: 2}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3256123080762291287, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
+--- !u!114 &1714112215
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14049,7 +14242,7 @@ MonoBehaviour:
   direction: {x: 0, y: 0}
   maxBounceAngle: 75
   speed: 30
---- !u!54 &1714112210
+--- !u!54 &1714112216
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14074,30 +14267,22 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 124
+  m_Constraints: 126
   m_CollisionDetection: 0
---- !u!64 &1714112211
-MeshCollider:
+--- !u!114 &1714112217
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714112208}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4068373912626513877, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9ad0d9f52a04c2cab668fd5623aa11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controls: {fileID: 11400000, guid: ed98fb6281f1f405bbbf68672074bff6, type: 2}
+  speed: {fileID: 11400000, guid: ba07158d91248f348b4caf0c1ffd6762, type: 2}
 --- !u!1001 &1720590827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14527,12 +14712,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1853185620
 Rigidbody:
@@ -14860,11 +15045,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1911663871
 Rigidbody:
@@ -15045,7 +15230,7 @@ MonoBehaviour:
           m_StringArgument: Play
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1714112209}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: Paddle, Assembly-CSharp
         m_MethodName: ResetPaddle
         m_Mode: 1
@@ -15184,9 +15369,9 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1937447673
 Rigidbody:
@@ -15532,11 +15717,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1956676614
 Rigidbody:
@@ -15596,7 +15781,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -15604,7 +15789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15918,8 +16103,8 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1988470751
 Rigidbody:
@@ -16046,12 +16231,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &1989484159
 Rigidbody:
@@ -16823,10 +17008,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &2070669402
 Rigidbody:
@@ -17028,11 +17213,11 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &2081783954
 Rigidbody:
@@ -17311,7 +17496,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.x
-      value: 101.83229
+      value: 101.83233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.y
@@ -17319,7 +17504,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalScale.z
-      value: 305.49686
+      value: 305.49692
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17463,12 +17648,12 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  maxBounceAngle: 75
+  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
+  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
+  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
+  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
+  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  maxBounceAngle: 120
   spawnWeight: 1
 --- !u!54 &2144830392
 Rigidbody:
