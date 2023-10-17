@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,8 @@
       <workItem from="1695578154214" duration="1665000" />
       <workItem from="1695771453506" duration="727000" />
       <workItem from="1695934293678" duration="4417000" />
-      <workItem from="1696027545632" duration="3421000" />
+      <workItem from="1696027545632" duration="4252000" />
+      <workItem from="1696183416154" duration="5854000" />
     </task>
     <servers />
   </component>
