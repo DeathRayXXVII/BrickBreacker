@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrickSpawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrickSpawn.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +112,7 @@
       <workItem from="1696027545632" duration="4252000" />
       <workItem from="1696183416154" duration="5854000" />
       <workItem from="1697578418735" duration="8712000" />
+      <workItem from="1697683505709" duration="4670000" />
     </task>
     <servers />
   </component>
