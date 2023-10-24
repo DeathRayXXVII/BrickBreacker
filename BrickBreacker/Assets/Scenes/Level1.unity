@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.43052337, g: 0.46553892, b: 0.49754936, a: 1}
+  m_IndirectSpecularColor: {r: 0.4279278, g: 0.46248633, b: 0.49537402, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -196,6 +196,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &6003991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -824,6 +830,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &62746308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1134,6 +1146,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1222,6 +1238,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1309,6 +1329,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1403,6 +1427,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &90531228
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1695,6 +1725,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &108379552
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1854,6 +1890,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &114750256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2003,6 +2045,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2346,7 +2392,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 201552080}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Bricks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2620,6 +2666,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &251341885
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2844,6 +2896,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2931,6 +2987,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_IsActive
@@ -3029,6 +3089,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &266348333
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3373,6 +3439,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3753,6 +3823,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3840,6 +3914,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3934,6 +4012,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &386472292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4086,6 +4170,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4309,6 +4397,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4402,6 +4494,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &401907560
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4552,6 +4650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4585,7 +4687,7 @@ GameObject:
   - component: {fileID: 417586393}
   - component: {fileID: 417586392}
   - component: {fileID: 417586396}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4753,6 +4855,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!1 &453316450 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -4826,6 +4934,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &453316453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4982,6 +5096,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &460641354
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5220,6 +5340,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &469520179
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5536,6 +5662,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &524983689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6041,6 +6173,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &603015574
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6332,6 +6470,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &621589108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6417,7 +6561,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
+  dropChance: 0.75
 --- !u!1 &623995572
 GameObject:
   m_ObjectHideFlags: 0
@@ -6569,6 +6713,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &633991472
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6724,6 +6874,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &645993115
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6974,6 +7130,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &719994034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7130,6 +7292,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &721145486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7282,6 +7450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7375,6 +7547,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &735635917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7614,6 +7792,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &753998920
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7846,6 +8030,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7939,6 +8127,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &778201973
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8096,6 +8290,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &787463182
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8589,6 +8789,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -8617,6 +8821,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1714112217}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1714112221}
   m_SourcePrefab: {fileID: 100100000, guid: 7444c3a5e1474b14b940d2fbc8bf334e, type: 3}
 --- !u!1 &812946552
 GameObject:
@@ -8879,6 +9086,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9263,6 +9474,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9350,6 +9565,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9444,6 +9663,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &858559982
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9594,6 +9819,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9631,7 +9860,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &868770113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9689,7 +9918,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa23b1bad0ab7e449dc4d41d94646e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1082276110}
+  followTarget: {fileID: 1714112208}
+  playerInput: {fileID: 868770113}
 --- !u!1001 &876560121
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9757,6 +9987,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9845,6 +10079,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10067,6 +10305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10254,6 +10496,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &940974004
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10431,7 +10679,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 71.1
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -10458,31 +10706,12 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -17.4}
+  m_LocalPosition: {x: 0, y: 1, z: -14.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &980350094 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4184397682981453280, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-  m_PrefabInstance: {fileID: 8724307398274995924}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &980350095
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 980350094}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 0}
-  dropChance: 0.5
 --- !u!1001 &985224929
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10550,6 +10779,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11094,6 +11327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11181,6 +11418,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11815,6 +12056,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12018,6 +12263,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12111,6 +12360,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1106392328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12261,6 +12516,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12433,6 +12692,10 @@ PrefabInstance:
       value: Ball
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
       propertyPath: m_TagString
       value: Ball
       objectReference: {fileID: 0}
@@ -12517,6 +12780,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12686,6 +12953,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1172242948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13051,6 +13324,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1206774766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13782,6 +14061,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1276811377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13939,6 +14224,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1277320192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14089,6 +14380,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14265,6 +14560,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1334538004
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14856,6 +15157,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1416398244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15011,6 +15318,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1427894848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15168,6 +15481,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1442633549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15414,6 +15733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15501,6 +15824,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15858,6 +16185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16187,6 +16518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16280,6 +16615,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1537958501
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16773,6 +17114,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1598444943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17057,6 +17404,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17226,6 +17577,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17402,13 +17757,27 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714112208}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9c9ad0d9f52a04c2cab668fd5623aa11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   controls: {fileID: 11400000, guid: ed98fb6281f1f405bbbf68672074bff6, type: 2}
   speed: {fileID: 11400000, guid: ba07158d91248f348b4caf0c1ffd6762, type: 2}
+--- !u!114 &1714112221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1714112208}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa23b1bad0ab7e449dc4d41d94646e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  followTarget: {fileID: 0}
+  playerInput: {fileID: 868770113}
 --- !u!1001 &1720590827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17476,6 +17845,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17889,6 +18262,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1853185619
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18241,6 +18620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18334,6 +18717,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1911663870
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18709,6 +19098,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1937447672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18994,6 +19389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19087,6 +19486,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1956676613
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19240,6 +19645,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19328,6 +19737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19415,6 +19828,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19509,6 +19926,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1988470750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19664,6 +20087,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &1989484158
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20300,6 +20729,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20387,6 +20820,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20556,6 +20993,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &2070669401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20788,6 +21231,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &2081783953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21209,6 +21658,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Brick (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21296,6 +21749,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
       propertyPath: m_Name
       value: Brick (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21390,6 +21847,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  playerCollisionEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  player:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!114 &2144830391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21476,66 +21939,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
   dropChance: 0.5
---- !u!1001 &8724307398274995924
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.9
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 3556197914145711962, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4184397682981453280, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      propertyPath: m_Name
-      value: Brick
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4184397682981453280, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 980350095}
-  m_SourcePrefab: {fileID: 100100000, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -21552,5 +21955,4 @@ SceneRoots:
   - {fileID: 991757040}
   - {fileID: 868770114}
   - {fileID: 1082276112}
-  - {fileID: 8724307398274995924}
   - {fileID: 1809455805}
