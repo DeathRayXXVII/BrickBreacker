@@ -5,7 +5,122 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 1.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 1.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 10.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 10.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 11.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 11.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 12.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 12.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 13.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 13.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 14.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 14.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 15.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 15.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 16.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 16.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 17.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 17.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 18.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 18.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 19.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 19.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 2.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 2.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 20.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 20.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 21.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 21.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 22.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 22.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 23.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 23.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 24.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 24.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 25.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 25.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 26.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 26.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 27.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 27.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 28.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 28.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 29.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 29.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 3.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 3.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 30.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 30.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 31.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 31.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 32.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 32.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 33.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 33.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 34.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 34.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 35.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 35.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 36.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 36.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 37.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 37.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 38.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 38.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 39.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 39.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 40.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 40.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 41.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 41.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 42.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 42.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 43.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 43.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 44.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 44.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 45.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 45.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 46.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 46.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 47.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 47.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 48.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 48.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 49.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 49.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 5.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 5.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 50.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 50.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 51.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 51.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 52.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 52.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 53.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 53.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 54.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 54.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 6.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 6.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 7.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 7.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 8.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 8.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 9.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BL 9.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NewFeatures.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NewFeatures.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrickSpawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrickSpawn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IteamDrop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IteamDrop.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +134,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Brick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BrickDataList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scripts/CollisionEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scripts/Data/MaterialList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Test.cs" root0="FORCE_HIGHLIGHTING" />
@@ -35,26 +151,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Riley\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Riley\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\Riley\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Riley\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Riley\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Riley\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Unity.exe" />
@@ -112,7 +228,8 @@
       <workItem from="1696183416154" duration="5854000" />
       <workItem from="1697578418735" duration="8712000" />
       <workItem from="1697683505709" duration="4670000" />
-      <workItem from="1698109049388" duration="3691000" />
+      <workItem from="1698109049388" duration="4562000" />
+      <workItem from="1698179875309" duration="14394000" />
     </task>
     <servers />
   </component>

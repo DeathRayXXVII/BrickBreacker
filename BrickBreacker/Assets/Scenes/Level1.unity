@@ -214,18 +214,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &6003992
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -554,7 +549,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &39515629
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -631,7 +626,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &51663077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -708,7 +703,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &56500225
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -848,17 +843,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &62746309
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1445,17 +1436,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &90531229
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1743,18 +1730,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &108379553
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1908,14 +1890,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &114750257
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2684,15 +2665,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &251341886
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3107,17 +3086,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
-  materialsList: {fileID: 11400000, guid: 6bfea02574333434dbb80d9692d69ff5, type: 2}
+  materials: []
+  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &266348334
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4030,17 +4005,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &386472293
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4512,14 +4483,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &401907561
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4952,15 +4922,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &453316454
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5114,15 +5082,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &460641355
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5358,16 +5324,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &469520180
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5458,7 +5421,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &520267613
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5680,18 +5643,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &524983690
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5860,7 +5818,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &543663193
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6015,7 +5973,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &587757222
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6191,16 +6149,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &603015575
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6488,18 +6443,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &621589109
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6731,14 +6681,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &633991473
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6892,15 +6841,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &645993116
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7148,15 +7095,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &719994035
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7310,16 +7255,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &721145487
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7565,16 +7507,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &735635918
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7810,18 +7749,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &753998921
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8145,16 +8079,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &778201974
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8308,17 +8239,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &787463183
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9273,7 +9200,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &831004273
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9322,90 +9249,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 126
   m_CollisionDetection: 0
---- !u!1 &831573695 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-  m_PrefabInstance: {fileID: 1156683208}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &831573696
+--- !u!114 &831573696 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 2043538040095966864, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+  m_PrefabInstance: {fileID: 2329354458518967190}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 831573695}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0945861aaeb17004bb30a22e4b458a5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
-  speed: 11
-  maxSpeed: 500
-  vector3DataObj: {fileID: 11400000, guid: 7a4e43f4c4b71184fbde62bf4f579b6f, type: 2}
-  ballEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 991757042}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
---- !u!135 &831573697
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 831573695}
-  m_Material: {fileID: 13400000, guid: 3506b809626c4cc429d6e0c790f6d927, type: 2}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Radius: 0.009884982
-  m_Center: {x: 0, y: 0, z: 0.00018351221}
---- !u!54 &831573698
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 831573695}
-  serializedVersion: 4
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 8
-  m_CollisionDetection: 0
 --- !u!1001 &846722001
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9681,14 +9535,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &858559983
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10514,14 +10367,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &940974005
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12378,15 +12230,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1106392329
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12623,96 +12473,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 543663192}
   m_SourcePrefab: {fileID: 100100000, guid: 3acf931f918bfcc4c910877df4ef676a, type: 3}
---- !u!1001 &1156683208
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 45
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 45
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 45
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 94565ccab8c399b4181f84230d339c2c, type: 2}
-    - target: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_Name
-      value: Ball
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      propertyPath: m_TagString
-      value: Ball
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 831573698}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 831573697}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 48198b9983c0921478074f5076943dbe, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 831573696}
-  m_SourcePrefab: {fileID: 100100000, guid: 48198b9983c0921478074f5076943dbe, type: 3}
 --- !u!1001 &1157626497
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12971,15 +12731,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1172242949
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13342,16 +13100,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1206774767
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13579,52 +13334,8 @@ MonoBehaviour:
   paddle: {fileID: 0}
   level: 0
   life: {fileID: 11400000, guid: afd88ba6da25b7740a28e11b31904d7d, type: 2}
-  bricks:
-  - {fileID: 401907560}
-  - {fileID: 1416398244}
-  - {fileID: 858559982}
-  - {fileID: 1988470750}
-  - {fileID: 1598444943}
-  - {fileID: 114750256}
-  - {fileID: 940974004}
-  - {fileID: 633991472}
-  - {fileID: 1537958501}
-  - {fileID: 645993115}
-  - {fileID: 1937447672}
-  - {fileID: 1106392328}
-  - {fileID: 251341885}
-  - {fileID: 719994034}
-  - {fileID: 453316453}
-  - {fileID: 1172242948}
-  - {fileID: 1277320192}
-  - {fileID: 460641354}
-  - {fileID: 778201973}
-  - {fileID: 603015574}
-  - {fileID: 735635917}
-  - {fileID: 1427894848}
-  - {fileID: 1206774766}
-  - {fileID: 721145486}
-  - {fileID: 469520179}
-  - {fileID: 1276811377}
-  - {fileID: 2070669401}
-  - {fileID: 90531228}
-  - {fileID: 1334538004}
-  - {fileID: 2081783953}
-  - {fileID: 787463182}
-  - {fileID: 1956676613}
-  - {fileID: 386472292}
-  - {fileID: 62746308}
-  - {fileID: 1911663870}
-  - {fileID: 266348333}
-  - {fileID: 753998920}
-  - {fileID: 524983689}
-  - {fileID: 1989484158}
-  - {fileID: 108379552}
-  - {fileID: 6003991}
-  - {fileID: 1853185619}
-  - {fileID: 2144830391}
-  - {fileID: 1442633549}
-  - {fileID: 621589108}
+  bricks: {fileID: 0}
+  spawnedObjects: []
   newGameEvent:
     m_PersistentCalls:
       m_Calls:
@@ -14079,16 +13790,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1276811378
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14242,15 +13950,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1277320193
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14578,17 +14284,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1334538005
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14679,7 +14381,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &1356477118
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14756,7 +14458,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &1362374467
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14833,7 +14535,7 @@ MonoBehaviour:
   materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 75
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!65 &1366141808
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15175,14 +14877,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1416398245
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15336,16 +15037,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1427894849
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15499,18 +15197,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1442633550
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16633,14 +16326,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1537958502
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17132,14 +16824,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1598444944
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18173,7 +17864,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnPositionsList: {fileID: 11400000, guid: 3d1cb91a52e1e064e81532b1e00e3226, type: 2}
   objectPrefab: {fileID: 4184397682981453280, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
+  gameManager: {fileID: 0}
   materialsList: {fileID: 11400000, guid: 6bfea02574333434dbb80d9692d69ff5, type: 2}
+  brickData: {fileID: 0}
+  brickDataList: {fileID: 0}
+  material: {fileID: 0}
+  unbreackChance: 0.9
+  bricks: {fileID: 0}
 --- !u!4 &1809455805
 Transform:
   m_ObjectHideFlags: 0
@@ -18280,18 +17977,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1853185620
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18735,17 +18427,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1911663871
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19116,15 +18804,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 2
+  health: 0
   maxHealth: 2
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1937447673
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19504,17 +19190,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1956676614
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19944,14 +19626,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 0
   maxHealth: 1
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1988470751
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20105,18 +19786,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &1989484159
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21011,16 +20687,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 3
+  health: 0
   maxHealth: 3
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &2070669402
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21249,17 +20922,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 0
   maxHealth: 4
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &2081783954
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21865,18 +21534,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ee716d1775b99b48980b5e7e57b0839, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
+  health: 0
   maxHealth: 5
   unbreakable: 0
-  materials:
-  - {fileID: 2100000, guid: cc22b18aa92c616448be2d0377c4a3ec, type: 2}
-  - {fileID: 2100000, guid: 33baa0a0a98d11d479bffee87140eb36, type: 2}
-  - {fileID: 2100000, guid: 5ff0193812d53924496172bcadf00e29, type: 2}
-  - {fileID: 2100000, guid: 6c81ecdcd78e6024790c5b190781caa2, type: 2}
-  - {fileID: 2100000, guid: e0f19cb1d8574c542866f71061dd5923, type: 2}
+  materials: []
   materialsList: {fileID: 0}
   maxBounceAngle: 120
-  spawnWeight: 1
+  brickData: {fileID: 0}
 --- !u!54 &2144830392
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21939,6 +21603,67 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
   dropChance: 0.5
+--- !u!1001 &2329354458518967190
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2043538040095966864, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: ballEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 991757042}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8206423263506326620, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8838528493420265190, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+      propertyPath: m_Name
+      value: Ball
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -21946,7 +21671,7 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 804694384}
-  - {fileID: 1156683208}
+  - {fileID: 2329354458518967190}
   - {fileID: 1554632580}
   - {fileID: 201552080}
   - {fileID: 1533783375}
