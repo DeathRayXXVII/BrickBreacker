@@ -158,7 +158,7 @@ MonoBehaviour:
   unbreakable: 0
   materials: []
   rend: {fileID: 0}
-  maxBounceAngle: 75
+  maxBounceAngle: 45
   gameManager: {fileID: 0}
   brickDataList: {fileID: 11400000, guid: c0218db83bd436d499b4640a0659ce2d, type: 2}
 --- !u!114 &-8675272267981034662

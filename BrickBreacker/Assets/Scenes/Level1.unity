@@ -218,7 +218,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &6003992
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -378,8 +381,8 @@ Transform:
   m_GameObject: {fileID: 24569389}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 16.5, y: 0.19955635, z: -6.96}
-  m_LocalScale: {x: 18.602213, y: 1, z: 16.758}
+  m_LocalPosition: {x: 19, y: 1, z: -6.96}
+  m_LocalScale: {x: 20, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -544,7 +547,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &39515629
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -619,7 +625,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &51663077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -694,7 +703,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &56500225
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -838,7 +850,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &62746309
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1428,7 +1443,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &90531229
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1719,7 +1737,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &108379553
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1876,7 +1897,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &114750257
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2262,8 +2286,8 @@ Transform:
   m_GameObject: {fileID: 167150920}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.6267738, y: 9, z: -6.96}
-  m_LocalScale: {x: 38.451828, y: 1, z: 16.758}
+  m_LocalPosition: {x: -2.6267738, y: 11, z: -6.96}
+  m_LocalScale: {x: 58.031498, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -2368,7 +2392,7 @@ Transform:
   m_GameObject: {fileID: 201552079}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.6467738, y: 1.0504436, z: 4.7648125}
+  m_LocalPosition: {x: -42.73, y: 1.0504436, z: 4.7648125}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2648,7 +2672,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &251341886
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3066,7 +3093,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &266348334
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3982,7 +4012,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &386472293
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4457,7 +4490,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &401907561
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4893,7 +4929,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &453316454
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5050,7 +5089,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &460641355
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5289,7 +5331,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &469520180
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5377,7 +5422,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &520267613
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5603,7 +5651,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &524983690
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5769,7 +5820,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &543663193
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5922,7 +5976,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &587757222
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6102,7 +6159,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &603015575
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6393,7 +6453,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &621589109
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6628,7 +6691,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &633991473
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6785,7 +6851,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &645993116
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7036,7 +7105,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &719994035
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7193,7 +7265,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &721145487
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7442,7 +7517,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &735635918
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7681,7 +7759,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &753998921
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8008,7 +8089,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &778201974
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8165,7 +8249,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &787463183
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8767,9 +8854,9 @@ MonoBehaviour:
           m_StringArgument: Play
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1241285709}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: NewGame
+      - m_Target: {fileID: 1809455804}
+        m_TargetAssemblyTypeName: BrickSpawn, Assembly-CSharp
+        m_MethodName: SpawnBricks
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8823,6 +8910,18 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: afd88ba6da25b7740a28e11b31904d7d, type: 2}
+        m_TargetAssemblyTypeName: intData, Assembly-CSharp
+        m_MethodName: SetValue
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -9117,7 +9216,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &831004273
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9456,7 +9558,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &858559983
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9627,7 +9732,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &868770113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10285,7 +10390,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &940974005
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11661,8 +11769,8 @@ Transform:
   m_GameObject: {fileID: 1075091007}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -21.5, y: 0.19955635, z: -6.96}
-  m_LocalScale: {x: 18.602213, y: 1, z: 16.758}
+  m_LocalPosition: {x: -24, y: 1, z: -6.96}
+  m_LocalScale: {x: 20, y: 1, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1554632580}
@@ -12145,7 +12253,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1106392329
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12643,7 +12754,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1172242949
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13009,7 +13123,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1206774767
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13539,7 +13656,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Version 0.0.6
+  m_text: Version 0.0.8
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13711,7 +13828,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1276811378
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13868,7 +13988,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1277320193
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14199,7 +14322,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1334538005
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14287,7 +14413,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &1356477118
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14362,7 +14491,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &1362374467
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14437,7 +14569,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 75
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!65 &1366141808
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14783,7 +14918,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1416398245
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14940,7 +15078,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1427894849
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15097,7 +15238,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1442633550
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15897,6 +16041,7 @@ RectTransform:
   - {fileID: 1454180731}
   - {fileID: 584500829}
   - {fileID: 538062987}
+  - {fileID: 1554632580}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -16223,7 +16368,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1537958502
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16443,16 +16591,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554632579}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.6467738, y: 1.0504436, z: 4.7648125}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 215.0593, y: 4.0987167, z: 582.1652}
+  m_LocalScale: {x: 81.25337, y: 81.25337, z: 81.25337}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 24569393}
   - {fileID: 1075091011}
   - {fileID: 417586395}
   - {fileID: 167150924}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1533783375}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1556826385
 GameObject:
@@ -16718,7 +16866,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1598444944
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17299,7 +17450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 0}
   direction: {x: 0, y: 0}
-  maxBounceAngle: 75
+  maxBounceAngle: 55
   speed: 20
 --- !u!54 &1714112216
 Rigidbody:
@@ -17335,7 +17486,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714112208}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9c9ad0d9f52a04c2cab668fd5623aa11, type: 3}
   m_Name: 
@@ -17731,7 +17882,7 @@ GameObject:
   - component: {fileID: 1809455805}
   - component: {fileID: 1809455804}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: BrickSpawnManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17755,7 +17906,7 @@ MonoBehaviour:
   materialsList: {fileID: 11400000, guid: 6bfea02574333434dbb80d9692d69ff5, type: 2}
   brickData: {fileID: 0}
   brickDataList: {fileID: 11400000, guid: c0218db83bd436d499b4640a0659ce2d, type: 2}
-  material: {fileID: 0}
+  material: {fileID: 2100000, guid: c54f95590ef3ddf4ba8c1f7dccaffc3d, type: 2}
   unbreackChance: 0.9
   bricks: {fileID: 0}
 --- !u!4 &1809455805
@@ -17868,7 +18019,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1853185620
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18315,7 +18469,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1911663871
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18689,7 +18846,10 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1937447673
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19072,7 +19232,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1956676614
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19505,7 +19668,10 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1988470751
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19662,7 +19828,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &1989484159
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20560,7 +20729,10 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &2070669402
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20792,7 +20964,10 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &2081783954
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21401,7 +21576,10 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
+  rend: {fileID: 0}
   maxBounceAngle: 120
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 0}
 --- !u!54 &2144830392
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21532,12 +21710,11 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 804694384}
   - {fileID: 2329354458518967190}
-  - {fileID: 1554632580}
   - {fileID: 201552080}
   - {fileID: 1533783375}
   - {fileID: 794237889}
   - {fileID: 1241285707}
+  - {fileID: 1809455805}
   - {fileID: 991757040}
   - {fileID: 868770114}
   - {fileID: 1082276112}
-  - {fileID: 1809455805}

@@ -7,14 +7,12 @@
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/BrickData/BrickLocationsList.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO/BrickData/BrickLocationsList.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/NewFeatures.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/NewFeatures.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrickSpawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrickSpawn.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Debugger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Debugger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IteamDrop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IteamDrop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,7 @@
       <workItem from="1697683505709" duration="4670000" />
       <workItem from="1698109049388" duration="4562000" />
       <workItem from="1698179875309" duration="15232000" />
-      <workItem from="1698272708353" duration="8867000" />
+      <workItem from="1698272708353" duration="10387000" />
     </task>
     <servers />
   </component>
