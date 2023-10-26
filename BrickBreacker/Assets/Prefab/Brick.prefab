@@ -157,9 +157,10 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
+  rend: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
+  gameManager: {fileID: 0}
+  brickDataList: {fileID: 11400000, guid: c0218db83bd436d499b4640a0659ce2d, type: 2}
 --- !u!114 &-8675272267981034662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,9 +188,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Play
+      - m_Target: {fileID: 412671573823524168}
+        m_TargetAssemblyTypeName: Brick, Assembly-CSharp
+        m_MethodName: ManagerHit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -199,36 +200,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: Hit
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Tools.MatchingGameScripts.TextLabelBehavior, Assembly-CSharp
-        m_MethodName: UpdateLabel
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 9ac6f88eac5e45d489aa2a6ce68d0907, type: 2}
-          m_ObjectArgumentAssemblyTypeName: intData, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
   playerCollisionEvent:
     m_PersistentCalls:
       m_Calls: []
   player:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
 --- !u!114 &2476235429128707962
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -242,4 +219,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5

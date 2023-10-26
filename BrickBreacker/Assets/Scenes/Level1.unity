@@ -218,9 +218,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &6003992
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -282,7 +280,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &24569389
 GameObject:
   m_ObjectHideFlags: 0
@@ -547,9 +544,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &39515629
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -624,9 +619,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &51663077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -701,9 +694,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &56500225
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -847,9 +838,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &62746309
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -911,7 +900,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &73040904
 GameObject:
   m_ObjectHideFlags: 0
@@ -1440,9 +1428,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &90531229
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1504,7 +1490,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &91082176
 GameObject:
   m_ObjectHideFlags: 0
@@ -1734,9 +1719,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &108379553
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1798,7 +1781,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &114750253 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -1894,9 +1876,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &114750257
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1958,7 +1938,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &148489175
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2669,9 +2648,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &251341886
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2733,7 +2710,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &254521958
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3090,9 +3066,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &266348334
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3154,7 +3128,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &306978758
 GameObject:
   m_ObjectHideFlags: 0
@@ -4009,9 +3982,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &386472293
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4073,7 +4044,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &388592376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4487,9 +4457,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &401907561
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4551,7 +4519,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &404618836
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4926,9 +4893,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &453316454
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4990,7 +4955,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &460641351 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -5086,9 +5050,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &460641355
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5150,7 +5112,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &461490327
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5328,9 +5289,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &469520180
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5392,7 +5351,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &520267608 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3acf931f918bfcc4c910877df4ef676a, type: 3}
@@ -5419,9 +5377,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &520267613
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5647,9 +5603,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &524983690
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5711,7 +5665,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &538062986
 GameObject:
   m_ObjectHideFlags: 0
@@ -5816,9 +5769,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &543663193
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5971,9 +5922,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &587757222
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6153,9 +6102,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &603015575
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6217,7 +6164,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &620423176
 GameObject:
   m_ObjectHideFlags: 0
@@ -6447,9 +6393,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &621589109
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6511,7 +6455,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.75
 --- !u!1 &623995572
 GameObject:
   m_ObjectHideFlags: 0
@@ -6685,9 +6628,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &633991473
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6749,7 +6690,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &645993112 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -6845,9 +6785,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &645993116
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6909,7 +6847,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -7099,9 +7036,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &719994035
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7163,7 +7098,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &721145483 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -7259,9 +7193,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &721145487
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7323,7 +7255,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &722147973
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7511,9 +7442,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &735635918
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7575,7 +7504,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &742377027
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7753,9 +7681,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &753998921
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7817,7 +7743,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &756178301
 GameObject:
   m_ObjectHideFlags: 0
@@ -8083,9 +8008,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &778201974
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8147,7 +8070,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &787463179 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -8243,9 +8165,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &787463183
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8307,7 +8227,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &794237886
 GameObject:
   m_ObjectHideFlags: 0
@@ -9198,9 +9117,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &831004273
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9539,9 +9456,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &858559983
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9603,7 +9518,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &861702906
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10371,9 +10285,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &940974005
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10435,7 +10347,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &958529272
 GameObject:
   m_ObjectHideFlags: 0
@@ -12234,9 +12145,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1106392329
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12298,7 +12207,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &1111423821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12735,9 +12643,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1172242949
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12799,7 +12705,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1182253999
 GameObject:
   m_ObjectHideFlags: 0
@@ -13104,9 +13009,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1206774767
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13168,7 +13071,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &1230897697
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13263,6 +13165,7 @@ GameObject:
   - component: {fileID: 1241285706}
   - component: {fileID: 1241285708}
   - component: {fileID: 1241285709}
+  - component: {fileID: 1241285710}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -13390,7 +13293,6 @@ MonoBehaviour:
           m_StringArgument: Win
           m_BoolArgument: 0
         m_CallState: 2
-  brickPosition: {fileID: 11400000, guid: 3d1cb91a52e1e064e81532b1e00e3226, type: 2}
   noLifeEvent:
     m_PersistentCalls:
       m_Calls:
@@ -13430,7 +13332,22 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-  spawnWeight: 1
+--- !u!114 &1241285710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241285705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12c0033bfd0101e468f5c39ba9d9e53c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameActionObj: {fileID: 11400000, guid: a9dffcc4c70511845a71d1e01b6c5ea3, type: 2}
+  onRaiseEvnet:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1257996788
 GameObject:
   m_ObjectHideFlags: 0
@@ -13794,9 +13711,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1276811378
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13858,7 +13773,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1277320189 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -13954,9 +13868,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1277320193
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14018,7 +13930,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &1295689791
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14288,9 +14199,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1334538005
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14352,7 +14261,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1356477113 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3acf931f918bfcc4c910877df4ef676a, type: 3}
@@ -14379,9 +14287,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &1356477118
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14456,9 +14362,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &1362374467
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14533,9 +14437,7 @@ MonoBehaviour:
   maxHealth: 0
   unbreakable: 1
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 75
-  brickData: {fileID: 0}
 --- !u!65 &1366141808
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14881,9 +14783,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1416398245
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14945,7 +14845,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1427894845 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -15041,9 +14940,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1427894849
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15105,7 +15002,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1442633546 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -15201,9 +15097,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1442633550
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15265,7 +15159,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1454180730
 GameObject:
   m_ObjectHideFlags: 0
@@ -16330,9 +16223,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1537958502
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16394,7 +16285,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1546712637
 GameObject:
   m_ObjectHideFlags: 0
@@ -16828,9 +16718,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1598444944
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16892,7 +16780,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1611706364
 GameObject:
   m_ObjectHideFlags: 0
@@ -17864,10 +17751,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnPositionsList: {fileID: 11400000, guid: 3d1cb91a52e1e064e81532b1e00e3226, type: 2}
   objectPrefab: {fileID: 4184397682981453280, guid: b223557ca6e0e3649bfab2bc05d6dc95, type: 3}
-  gameManager: {fileID: 0}
+  gameManager: {fileID: 1241285709}
   materialsList: {fileID: 11400000, guid: 6bfea02574333434dbb80d9692d69ff5, type: 2}
   brickData: {fileID: 0}
-  brickDataList: {fileID: 0}
+  brickDataList: {fileID: 11400000, guid: c0218db83bd436d499b4640a0659ce2d, type: 2}
   material: {fileID: 0}
   unbreackChance: 0.9
   bricks: {fileID: 0}
@@ -17981,9 +17868,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1853185620
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18045,7 +17930,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &1855643786
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18431,9 +18315,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1911663871
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18495,7 +18377,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1921873375
 GameObject:
   m_ObjectHideFlags: 0
@@ -18808,9 +18689,7 @@ MonoBehaviour:
   maxHealth: 2
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1937447673
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18872,7 +18751,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1942287153
 GameObject:
   m_ObjectHideFlags: 0
@@ -19194,9 +19072,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1956676614
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19258,7 +19134,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &1965193438
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19630,9 +19505,7 @@ MonoBehaviour:
   maxHealth: 1
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1988470751
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19694,7 +19567,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &1989484155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -19790,9 +19662,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &1989484159
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19854,7 +19724,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &2005782616
 GameObject:
   m_ObjectHideFlags: 0
@@ -20691,9 +20560,7 @@ MonoBehaviour:
   maxHealth: 3
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &2070669402
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20755,7 +20622,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &2076866832
 GameObject:
   m_ObjectHideFlags: 0
@@ -20926,9 +20792,7 @@ MonoBehaviour:
   maxHealth: 4
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &2081783954
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20990,7 +20854,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1 &2091408350
 GameObject:
   m_ObjectHideFlags: 0
@@ -21538,9 +21401,7 @@ MonoBehaviour:
   maxHealth: 5
   unbreakable: 0
   materials: []
-  materialsList: {fileID: 0}
   maxBounceAngle: 120
-  brickData: {fileID: 0}
 --- !u!54 &2144830392
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21602,7 +21463,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
-  dropChance: 0.5
 --- !u!1001 &2329354458518967190
 PrefabInstance:
   m_ObjectHideFlags: 0
