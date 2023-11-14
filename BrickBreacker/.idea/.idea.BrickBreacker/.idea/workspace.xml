@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pool Control.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pool Control.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Capsule.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Capsule.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Brick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InputAction.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InputAction.inputactions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InputTouch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InputTouch.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +46,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -130,6 +118,8 @@
       <workItem from="1698179875309" duration="15232000" />
       <workItem from="1698272708353" duration="10387000" />
       <workItem from="1698357877192" duration="5535000" />
+      <workItem from="1699916736769" duration="157000" />
+      <workItem from="1699916913138" duration="667000" />
     </task>
     <servers />
   </component>
