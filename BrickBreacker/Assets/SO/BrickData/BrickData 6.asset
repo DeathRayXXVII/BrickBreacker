@@ -17,5 +17,6 @@ MonoBehaviour:
   health: 1
   maxHealth: 1
   unbreakable: 0
+  unbreakableMaterial: {fileID: 2100000, guid: c54f95590ef3ddf4ba8c1f7dccaffc3d, type: 2}
   score: 0
   spawnWeight: 1
