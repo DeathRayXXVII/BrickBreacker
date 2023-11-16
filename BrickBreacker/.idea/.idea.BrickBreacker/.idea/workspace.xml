@@ -6,10 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/CoritineBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/CoritineBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/QuitApplication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/QuitApplication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/TextLabelBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/TextLabelBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Capsule.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Capsule.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SO/Score.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SO/Score.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Cash.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Cash.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Inventory/Store Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Inventory/Store Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Inventory/Sword.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Inventory/Sword.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Purchase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Purchase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/UnPurchased.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/UnPurchased.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/UpdateCash.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/UpdateCash.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/storeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/storeButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +135,7 @@
       <workItem from="1699916736769" duration="157000" />
       <workItem from="1699916913138" duration="1264000" />
       <workItem from="1700000459092" duration="9067000" />
+      <workItem from="1700089718978" duration="2702000" />
     </task>
     <servers />
   </component>
