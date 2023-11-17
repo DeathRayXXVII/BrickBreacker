@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0364660d3dbfad04d9f0900d394e3d52, type: 3}
-  m_Name: CallImage
+  m_Name: CallMaterial
   m_EditorClassIdentifier: 
-  spriteObj: {fileID: 380810734783175927, guid: efd823fee7a95f44eb4900bdf4b1ad40, type: 3}
-  meshObj: {fileID: 0}
+  spriteObj: {fileID: 0}
+  meshObj: {fileID: 4431120451482723476, guid: c060bd366e5a2b649902b76c1a3ac655, type: 3}
