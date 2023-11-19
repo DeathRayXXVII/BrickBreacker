@@ -160,8 +160,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 0}
-  speed: 14
-  maxSpeed: 500
+  speed: {fileID: 11400000, guid: 1bcfeb6189f655e4d9e5e94dbff58fc9, type: 2}
+  maxSpeed: {fileID: 11400000, guid: 0aee4f8661c4d7b4785e40901b4458cf, type: 2}
   vector3DataObj: {fileID: 11400000, guid: 7a4e43f4c4b71184fbde62bf4f579b6f, type: 2}
   ballEvent:
     m_PersistentCalls:

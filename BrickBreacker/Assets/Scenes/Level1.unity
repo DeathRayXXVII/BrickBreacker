@@ -387,8 +387,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: b6f8c3549af7b744fbb911e4770235d2, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &6194985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2339,6 +2352,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 4af4615cf70c00646b54dcb18faaadad, type: 2}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &104584355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2665,8 +2679,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 30652d38dda4c4d598ace085ff6106ce, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!1 &114750253 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -6415,6 +6442,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 30652d38dda4c4d598ace085ff6106ce, type: 2}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &324429230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7054,6 +7082,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 342465384}
   m_CullTransparentMesh: 1
+--- !u!1 &344665368 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8838528493420265190, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
+  m_PrefabInstance: {fileID: 2329354458518967190}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &345146548
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7828,8 +7861,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 30652d38dda4c4d598ace085ff6106ce, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &385259448
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9894,8 +9940,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: c4962860e75e0b8469d8f8bbc94a2822, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &461502039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10186,6 +10245,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 0}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &473543191
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10446,8 +10506,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 30652d38dda4c4d598ace085ff6106ce, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &479018480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14362,8 +14435,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 4af4615cf70c00646b54dcb18faaadad, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &770313852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15754,7 +15840,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2043538040095966864, guid: 8b45dc386a9bd5349b7f5d5b29d119d7, type: 3}
   m_PrefabInstance: {fileID: 2329354458518967190}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 344665368}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0945861aaeb17004bb30a22e4b458a5a, type: 3}
@@ -23074,6 +23160,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: b6f8c3549af7b744fbb911e4770235d2, type: 2}
+        m_TargetAssemblyTypeName: InventoryData, Assembly-CSharp
+        m_MethodName: ClearInventory
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1334743387
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23180,6 +23278,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: b6f8c3549af7b744fbb911e4770235d2, type: 2}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &1344882216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23388,6 +23487,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 7c0c3ff28fc80f549a872a647822e6cc, type: 2}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &1357473545
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23596,6 +23696,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 30652d38dda4c4d598ace085ff6106ce, type: 2}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &1363641655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26000,8 +26101,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 7c0c3ff28fc80f549a872a647822e6cc, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &1529760343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29385,8 +29499,21 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 4303feae9cc784fe5a9760630879365b, type: 2}
+        m_TargetAssemblyTypeName: Scripts.UnityActions.GameAction, Assembly-CSharp
+        m_MethodName: Raise
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 30652d38dda4c4d598ace085ff6106ce, type: 2}
   inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
+  storeUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
 --- !u!114 &1741218370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30034,6 +30161,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 0}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &1798865645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31022,6 +31150,7 @@ MonoBehaviour:
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: c4962860e75e0b8469d8f8bbc94a2822, type: 2}
   inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  storeUIPrefab: {fileID: 0}
 --- !u!114 &1886522042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33521,6 +33650,54 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: BrickSpawn, Assembly-CSharp
         m_MethodName: DestroyBricks
         m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1241285706}
+        m_TargetAssemblyTypeName: Scripts.PauseMenu, Assembly-CSharp
+        m_MethodName: StartResume
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 1bcfeb6189f655e4d9e5e94dbff58fc9, type: 2}
+        m_TargetAssemblyTypeName: Scripts.Data.FloatData, Assembly-CSharp
+        m_MethodName: SetValue
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 344665368}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 919132148751635489}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
