@@ -2271,8 +2271,8 @@ GameObject:
   - component: {fileID: 104584352}
   - component: {fileID: 104584356}
   - component: {fileID: 104584355}
-  - component: {fileID: 104584354}
   - component: {fileID: 104584353}
+  - component: {fileID: 104584354}
   m_Layer: 5
   m_Name: InventoryPaddlesColorsPanel
   m_TagString: Untagged
@@ -2351,7 +2351,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   inventoryDataObj: {fileID: 11400000, guid: 4af4615cf70c00646b54dcb18faaadad, type: 2}
-  inventoryUIPrefab: {fileID: 1862616671646700428, guid: 14b04c3d35cb843c6b7d65521f043528, type: 3}
+  inventoryUIPrefab: {fileID: 5412739403429779018, guid: 3b1ab0c93975243c0bb7278c1127f094, type: 3}
   storeUIPrefab: {fileID: 0}
 --- !u!114 &104584355
 MonoBehaviour:
@@ -21547,6 +21547,7 @@ GameObject:
   - component: {fileID: 1241285708}
   - component: {fileID: 1241285709}
   - component: {fileID: 1241285710}
+  - component: {fileID: 1241285711}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -21739,6 +21740,18 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   holdTime: 0.1
+--- !u!114 &1241285711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241285705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44e6fcc92033b294ba5bd734dbce4060, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1247375214
 GameObject:
   m_ObjectHideFlags: 0
@@ -23267,6 +23280,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1344882215}
         m_TargetAssemblyTypeName: InventoryConfigBehaviour, Assembly-CSharp
         m_MethodName: AddAllInventoryItemsToUI
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1344882215}
+        m_TargetAssemblyTypeName: InventoryConfigBehaviour, Assembly-CSharp
+        m_MethodName: UpdateIventoryUI
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -34593,6 +34618,7 @@ GameObject:
   - component: {fileID: 2051392210}
   - component: {fileID: 2051392212}
   - component: {fileID: 2051392211}
+  - component: {fileID: 2051392213}
   m_Layer: 5
   m_Name: InventoryPanel
   m_TagString: Untagged
@@ -34677,6 +34703,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2051392209}
   m_CullTransparentMesh: 1
+--- !u!114 &2051392213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2051392209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bc464e7e96c2274f858e5eb76161343, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2056542487
 GameObject:
   m_ObjectHideFlags: 0
