@@ -6,12 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/storeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/storeButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/BackgroundInventory/Space.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/BackgroundInventory/Space.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryConfigBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryConfigBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/Inventory Paddle Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/Inventory Paddle Data.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/RedPaddle.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/RedPaddle.asset.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +134,8 @@
       <workItem from="1700089718978" duration="8207000" />
       <workItem from="1700243980894" duration="16305000" />
       <workItem from="1700351552647" duration="17754000" />
+      <workItem from="1700437232592" duration="613000" />
+      <workItem from="1700454234872" duration="1890000" />
     </task>
     <servers />
   </component>
