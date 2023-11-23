@@ -282,7 +282,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &6194980
 GameObject:
   m_ObjectHideFlags: 0
@@ -1544,7 +1548,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &78924822
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1980,7 +1988,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &91082176
 GameObject:
   m_ObjectHideFlags: 0
@@ -2625,7 +2637,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &108802394
 GameObject:
   m_ObjectHideFlags: 0
@@ -2928,7 +2944,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &115872959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3865,7 +3885,7 @@ Transform:
   m_GameObject: {fileID: 167150920}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.6267738, y: 8.5, z: -6.96}
+  m_LocalPosition: {x: -2.6267738, y: 7.8, z: -6.96}
   m_LocalScale: {x: 58.031498, y: 2.4951, z: 16.758}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4097,7 +4117,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &201552080
 Transform:
   m_ObjectHideFlags: 0
@@ -5334,7 +5354,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &251887439
 GameObject:
   m_ObjectHideFlags: 0
@@ -6111,7 +6135,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &268620884 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3acf931f918bfcc4c910877df4ef676a, type: 3}
@@ -8476,7 +8504,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &388592376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9128,7 +9160,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &404618836
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10093,7 +10129,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &458080105
 GameObject:
   m_ObjectHideFlags: 0
@@ -10337,7 +10377,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &461490327
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10726,7 +10770,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &473543187
 GameObject:
   m_ObjectHideFlags: 0
@@ -12039,7 +12087,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &538062986
 GameObject:
   m_ObjectHideFlags: 0
@@ -12931,7 +12983,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &607510953
 GameObject:
   m_ObjectHideFlags: 0
@@ -13474,7 +13530,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &623995572
 GameObject:
   m_ObjectHideFlags: 0
@@ -13825,7 +13885,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &636584222
 GameObject:
   m_ObjectHideFlags: 0
@@ -14117,7 +14181,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &690006127
 GameObject:
   m_ObjectHideFlags: 0
@@ -14504,7 +14572,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &721145483 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -14664,7 +14736,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &722147973
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15049,7 +15125,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &753998917 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -15209,7 +15289,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &756178301
 GameObject:
   m_ObjectHideFlags: 0
@@ -15682,7 +15766,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &781263254
 GameObject:
   m_ObjectHideFlags: 0
@@ -16109,7 +16197,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &794237886
 GameObject:
   m_ObjectHideFlags: 0
@@ -17627,7 +17719,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &861702906
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18833,7 +18929,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &941614492
 GameObject:
   m_ObjectHideFlags: 0
@@ -21686,7 +21786,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &1111423821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22544,7 +22648,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1175492325
 GameObject:
   m_ObjectHideFlags: 0
@@ -23124,7 +23232,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &1224011234
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24408,7 +24520,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1277320189 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -24568,7 +24684,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1283278322
 GameObject:
   m_ObjectHideFlags: 0
@@ -25440,7 +25560,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1334743383
 GameObject:
   m_ObjectHideFlags: 0
@@ -26991,7 +27115,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1427894845 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -27151,7 +27279,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1436864798
 GameObject:
   m_ObjectHideFlags: 0
@@ -27449,7 +27581,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1454180730
 GameObject:
   m_ObjectHideFlags: 0
@@ -29398,7 +29534,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 497624854678910184, guid: 73a9296b753681148bdcf1292c991faf, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1549359419
 GameObject:
   m_ObjectHideFlags: 0
@@ -30147,7 +30287,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1599773894
 GameObject:
   m_ObjectHideFlags: 0
@@ -33702,7 +33846,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &1855643786
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34863,7 +35011,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &1915187871
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35486,7 +35638,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1941926461
 GameObject:
   m_ObjectHideFlags: 0
@@ -36008,7 +36164,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1001 &1965193438
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36522,7 +36682,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1989484155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f9c516991a89df14a8a69c946fcf7f01, type: 3}
@@ -36682,7 +36846,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &1997567505
 GameObject:
   m_ObjectHideFlags: 0
@@ -38356,7 +38524,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &2076866832
 GameObject:
   m_ObjectHideFlags: 0
@@ -38591,7 +38763,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &2085962835 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 3acf931f918bfcc4c910877df4ef676a, type: 3}
@@ -39542,7 +39718,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 7624616586956582644, guid: afcabba69992f364f99794b3dcec3918, type: 3}
+  itemPrefabs: []
+  itemPrefabsObj: {fileID: 0}
+  gameAction: {fileID: 0}
+  skipChance: 0.5
+  brickObj: {fileID: 0}
 --- !u!1 &919132148751635489 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4267995128538640748, guid: c060bd366e5a2b649902b76c1a3ac655, type: 3}
@@ -39607,6 +39787,10 @@ PrefabInstance:
     - target: {fileID: 4805326021041496219, guid: 048d13327301c75458a4f9f1be1f1d81, type: 3}
       propertyPath: m_Name
       value: SilverCoin
+      objectReference: {fileID: 0}
+    - target: {fileID: 4805326021041496219, guid: 048d13327301c75458a4f9f1be1f1d81, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

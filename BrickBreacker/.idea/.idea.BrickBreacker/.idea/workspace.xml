@@ -6,14 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Paddle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Paddle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/GreenCrystal.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/GreenCrystal.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/Inventory Paddle Data.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/SOs/Inventory/PaddleInventory/Inventory Paddle Data.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryConfigBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryConfigBehaviour.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Brick.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Heart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Heart.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IteamDrop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/IteamDrop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Interfaces/Interfaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Interfaces/Interfaces.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/UseButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/UseButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/storeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/storeButton.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryUIButtonBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +139,8 @@
       <workItem from="1700351552647" duration="17754000" />
       <workItem from="1700437232592" duration="613000" />
       <workItem from="1700454234872" duration="1890000" />
-      <workItem from="1700527078959" duration="11029000" />
+      <workItem from="1700527078959" duration="11753000" />
+      <workItem from="1700701796193" duration="16009000" />
     </task>
     <servers />
   </component>

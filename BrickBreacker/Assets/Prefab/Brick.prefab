@@ -234,4 +234,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc7baf2e69894cb41b9f42cd0b02efc1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 4805326021041496219, guid: 048d13327301c75458a4f9f1be1f1d81, type: 3}
+  itemPrefabs:
+  - {fileID: 11400000, guid: c0680266010e8374086cc52ab7aa8725, type: 2}
+  itemPrefabsObj: {fileID: 11400000, guid: 7c0c3ff28fc80f549a872a647822e6cc, type: 2}
+  gameAction: {fileID: 11400000, guid: 4afd4dc5d1ad3d643b0a070af07fae94, type: 2}
+  skipChance: 0.5
+  brickObj: {fileID: 412671573823524168}
