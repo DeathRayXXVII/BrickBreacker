@@ -5,80 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/CreditsPanel.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/CreditsPanel.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Settings.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Settings.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/StatesPanel.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/StatesPanel.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Models/.mayaSwatches/Paddle.ma.swatches" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory/BrickSpace.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory/BrickSpace.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory/InventoryBackground2dData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory/InventoryBackground2dData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory/Space.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BackgroundInventory/Space.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BallInventory.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BallInventory/Inventory Ball Data.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/BallInventory/Inventory Ball Data.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/BlueCrystal.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/BlueCrystal.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/CrystalRock.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/CrystalRock.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/DesertRock.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/DesertRock.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/EmergencyHatch.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/EmergencyHatch.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/GreenCrystal.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/GreenCrystal.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/Inventory Paddle Data.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/Inventory Paddle Data.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/LavaRock.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/LavaRock.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/MossRock.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/MossRock.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/MudRock.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/MudRock.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/OldPlanks.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/OldPlanks.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/PaintSpray.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/PaintSpray.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/PurpleCrystal.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/PurpleCrystal.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/RedCrystal.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/RedCrystal.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/WoodFloor.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PaddleInventory/WoodFloor.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory/Coin.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory/Coin.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory/Heart.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory/Heart.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory/InventoryPowerUpData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SO/Inventory/PowerUpInventory/InventoryPowerUpData.asset.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/Canvas.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Canvas.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/InvBackground2DPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/InvBackground2DPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/InvBackground3DPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/InvBackground3DPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/InventoryPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/InventoryPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/MenuPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/MenuPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StoreBackground3DPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StoreBackground3DPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StoreBackgroundPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StoreBackgroundPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StoreBallColorsPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StoreBallColorsPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StoreBallPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StoreBallPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StorePaddleColorsPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StorePaddleColorsPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StorePaddlesPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StorePaddlesPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StorePanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StorePanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StorePowerUpColorsPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StorePowerUpColorsPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation/StorePowerUpPanel.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/StorePowerUpPanel.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Paddle.ma" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Paddle.ma" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Paddle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Paddle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Background.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Background.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/UseButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/UseButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/storeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Prefabs/storeButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryConfigBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryConfigBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryUIButtonBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +140,7 @@
       <workItem from="1700527078959" duration="11753000" />
       <workItem from="1700701796193" duration="16260000" />
       <workItem from="1700864060400" duration="6613000" />
+      <workItem from="1700961159762" duration="11990000" />
     </task>
     <servers />
   </component>
