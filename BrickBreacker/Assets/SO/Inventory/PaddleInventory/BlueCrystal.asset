@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fef72ee1b95948a7a76c065548ea42e, type: 3}
   m_Name: BlueCrystal
   m_EditorClassIdentifier: 
+  category: Player
   price: 100
   own: 0
   previewArt: {fileID: 0}
@@ -21,5 +22,4 @@ MonoBehaviour:
   previewMaterial: {fileID: 2100000, guid: dd5e7c8fd5c3748449297851affeea52, type: 2}
   usedOrPurchase: 0
   gameActionObj: {fileID: 0}
-  gameObject: {fileID: 0}
   dropChance: 0

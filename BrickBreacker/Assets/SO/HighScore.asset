@@ -13,3 +13,21 @@ MonoBehaviour:
   m_Name: HighScore
   m_EditorClassIdentifier: 
   value: 0
+  decrementEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  valueChangeEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  atZeroEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  compareTrueEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  enableEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  atMinValue:
+    m_PersistentCalls:
+      m_Calls: []

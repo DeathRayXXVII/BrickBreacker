@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fef72ee1b95948a7a76c065548ea42e, type: 3}
   m_Name: MossRock
   m_EditorClassIdentifier: 
+  category: Player
   price: 0
   own: 0
   previewArt: {fileID: 0}
@@ -21,5 +22,4 @@ MonoBehaviour:
   previewMaterial: {fileID: 2100000, guid: 07078a22ef0323940b4add239957fa27, type: 2}
   usedOrPurchase: 0
   gameActionObj: {fileID: 0}
-  gameObject: {fileID: 0}
   dropChance: 0

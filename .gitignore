@@ -66,3 +66,7 @@ crashlytics-build.properties
 
 Basics/001 Conventions and Syntax/.idea/.idea.001 Conventions and Syntax.dir/.idea/
 BrickBreacker/Assets/Materials/Paddle/
+
+BrickBreacker/Assets/Materials/Ball/
+
+BrickBreacker/Assets/Materials/Bricks/Ball/PurpleElectric.mat

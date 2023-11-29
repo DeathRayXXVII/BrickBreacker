@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fef72ee1b95948a7a76c065548ea42e, type: 3}
   m_Name: OldPlanks
   m_EditorClassIdentifier: 
+  category: Player
   price: 100
   own: 0
   previewArt: {fileID: 0}
@@ -19,7 +20,6 @@ MonoBehaviour:
   floatLevel: 0
   gameArt: {fileID: 0}
   previewMaterial: {fileID: 2100000, guid: e9fcc725d3830aa4fa5b53d40c700156, type: 2}
-  usedOrPurchase: 1
+  usedOrPurchase: 0
   gameActionObj: {fileID: 0}
-  gameObject: {fileID: 0}
   dropChance: 0
