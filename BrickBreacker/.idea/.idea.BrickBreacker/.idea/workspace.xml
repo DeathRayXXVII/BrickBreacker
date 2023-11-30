@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2df03ed-2b82-45e2-9efe-fba1ea513f8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Heart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Heart.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrickBreacker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Firefly can you make a backgroung for a brick brecker game that is space theamed 5932.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Images/Firefly can you make a backgroung for a brick brecker game that is space theamed 5932.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/InventoryUIButtonBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scripts/Store/Scripts/StoreUIButtonBehaviour.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +140,7 @@
       <workItem from="1700961159762" duration="11990000" />
       <workItem from="1701204840972" duration="7492000" />
       <workItem from="1701233971206" duration="602000" />
+      <workItem from="1701305410822" duration="1320000" />
     </task>
     <servers />
   </component>

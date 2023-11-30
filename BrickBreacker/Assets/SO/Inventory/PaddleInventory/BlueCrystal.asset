@@ -15,7 +15,7 @@ MonoBehaviour:
   category: Player
   price: 100
   own: 0
-  previewArt: {fileID: 0}
+  previewArt: {fileID: 21300000, guid: e7378a413f26e9545b47b8555ec6a55b, type: 3}
   intLevel: 0
   floatLevel: 0
   gameArt: {fileID: 0}
