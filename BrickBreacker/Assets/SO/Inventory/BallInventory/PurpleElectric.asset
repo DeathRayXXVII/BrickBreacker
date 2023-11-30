@@ -15,7 +15,7 @@ MonoBehaviour:
   category: Ball
   price: 0
   own: 0
-  previewArt: {fileID: 0}
+  previewArt: {fileID: 21300000, guid: 4c48d933add4b8f498d0590fa9eb7ac6, type: 3}
   intLevel: 0
   floatLevel: 0
   gameArt: {fileID: 0}

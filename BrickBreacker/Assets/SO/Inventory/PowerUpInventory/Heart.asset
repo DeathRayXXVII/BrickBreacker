@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fef72ee1b95948a7a76c065548ea42e, type: 3}
   m_Name: Heart
   m_EditorClassIdentifier: 
-  category: 
-  price: 100
+  category: Coin
+  price: 500
   own: 0
-  previewArt: {fileID: 0}
+  previewArt: {fileID: 21300000, guid: e62e37a94b8e7584683af5452bb50cd0, type: 3}
   intLevel: 0
   floatLevel: 0
   gameArt: {fileID: 497624854678910184, guid: 73a9296b753681148bdcf1292c991faf, type: 3}

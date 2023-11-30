@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fef72ee1b95948a7a76c065548ea42e, type: 3}
   m_Name: Space
   m_EditorClassIdentifier: 
-  category: 
-  price: 500
+  category: Background
+  price: 150
   own: 0
   previewArt: {fileID: 21300000, guid: 66be1cd5a8926284a82b1bb532447a86, type: 3}
   intLevel: 0
